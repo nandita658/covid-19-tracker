@@ -12,8 +12,8 @@ body {
   padding: 20px;
 }
 
-.app__header>h1 {
-  font-size: 2rem;
+.app__header>img {
+  height: 48px;
 }
 
 .app__header {
